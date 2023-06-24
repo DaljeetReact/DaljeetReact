@@ -7,7 +7,7 @@ web developer
 Hello everyone, it is pleasure to see you or take interest in my profile from the last 4 years I the field of web application development. In these passing years, I have done a lot of projects in PHP, PHP frameworks, WordPress, React js, React-Native, TypeScript, and so on. I have learned a lot of new things and built up skills like debugging. how tackle the problem to what are the best possibilities of the single problem.
 
 * 🌍  I'm based in italy,india
-* 🚀  I'm currently working on [weatherapp](http://https://github.com/DaljeetReact/AngularWeatherApp)
+* 🚀  I'm currently working on [Music app](https://github.com/DaljeetReact/music-app-client)
 * 🧠  I'm learning Angular
 * ⚡  physiatrist
 
